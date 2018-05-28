@@ -6,7 +6,6 @@ email: jimmybest@qq.com
 description: "test test"
 keyword: "code, txt"
 url: "http://tanghuaizhi.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Sidebar settings

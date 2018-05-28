@@ -1,5 +1,5 @@
 # Site settings
-title: 汤怀志
+title: 汤 怀 志
 SEOTitle: 汤怀志的博客
 header-img: img/post-bg-desk.jpg
 email: jimmybest@qq.com
@@ -52,7 +52,7 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-# Featured Tags
+# 标签
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
@@ -64,7 +64,7 @@ service-worker: true
 
 
 
-# Friends
+# 链接
 friends: [
     {
         title: "WY",
